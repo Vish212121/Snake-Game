@@ -1,0 +1,2 @@
+Snake Game
+Developed an interactive Snake Game using Java and Swing, implementing real-time controls, collision detection, and dynamic difficulty settings. Designed an intuitive UI with score tracking, food spawning, and smooth game logic. Features include pause/resume functionality, adjustable speed, and game-over detection. Demonstrated strong problem-solving skills and proficiency in Java game development using multithreading and event handling.
